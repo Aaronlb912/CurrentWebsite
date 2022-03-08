@@ -1,6 +1,7 @@
 import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/amazon-copy.PNG";
+import IMG3 from "../../assets/IMG2.PNG";
 import IMG2 from "../../assets/port2.jpg";
 
 const data = [
@@ -13,10 +14,10 @@ const data = [
   },
   {
     id: 2,
-    image: IMG2,
-    title: "Coming Soon",
-    github: "https://github.com/Aaronlb912",
-    demo: "https://www.google.com/",
+    image: IMG3,
+    title: "Hulu Clone",
+    github: "https://github.com/Aaronlb912/Hulu-Clone",
+    demo: "https://hulu-clone-gules-six.vercel.app/",
   },
   {
     id: 3,
