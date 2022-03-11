@@ -3,6 +3,7 @@ import "./portfolio.css";
 import IMG1 from "../../assets/amazon-copy.PNG";
 import IMG3 from "../../assets/IMG2.PNG";
 import IMG2 from "../../assets/port2.jpg";
+import IMG4 from '../../assets/chatapp.jpg'
 
 const data = [
   {
@@ -28,10 +29,10 @@ const data = [
   },
   {
     id: 4,
-    image: IMG2,
-    title: "Coming Soon",
-    github: "https://github.com/Aaronlb912",
-    demo: "https://www.google.com/",
+    image: IMG4,
+    title: "Microsoft Teams Clone",
+    github: "https://github.com/Aaronlb912/social-withChatEngine",
+    demo: "https://chatappab.netlify.app/",
   },
   {
     id: 5,
