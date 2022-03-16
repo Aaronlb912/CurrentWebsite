@@ -3,7 +3,8 @@ import "./portfolio.css";
 import IMG1 from "../../assets/amazon-copy.PNG";
 import IMG3 from "../../assets/IMG2.PNG";
 import IMG2 from "../../assets/port2.jpg";
-import IMG4 from '../../assets/chatapp.jpg'
+import IMG4 from "../../assets/chatapp.jpg";
+import IMG5 from "../../assets/whatsappclone.png";
 
 const data = [
   {
@@ -22,10 +23,10 @@ const data = [
   },
   {
     id: 3,
-    image: IMG2,
-    title: "Coming Soon",
-    github: "https://github.com/Aaronlb912",
-    demo: "https://www.google.com/",
+    image: IMG5,
+    title: "WhatsApp Clone",
+    github: "https://github.com/Aaronlb912/Whatsapp-clone",
+    demo: "https://whatsapp-clone-9e914.web.app/",
   },
   {
     id: 4,
