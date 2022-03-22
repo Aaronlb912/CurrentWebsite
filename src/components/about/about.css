@@ -58,6 +58,7 @@
 
 .about__card h5 {
   font-size: 0.9rem;
+  
 }
 
 .about__card small {
@@ -94,12 +95,6 @@
   .about__me {
     width: 65%;
     margin: 0 auto 3rem;
-  }
-
-  .about__cards {
-    flex-direction: column;
-    grid-template-columns: 1fr 1fr;
-    gap: 1rem;
   }
 
   .about__content {

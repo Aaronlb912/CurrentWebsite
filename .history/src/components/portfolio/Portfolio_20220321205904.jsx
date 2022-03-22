@@ -38,7 +38,7 @@ const data = [
   },
   {
     id: 5,
-    image: IMG6,
+    image: IMG2,
     title: "Recipe-App",
     github: "https://github.com/Aaronlb912/recipe-app",
     demo: "https://abrecipeapp.netlify.app/",

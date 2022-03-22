@@ -5,7 +5,6 @@ import IMG3 from "../../assets/IMG2.PNG";
 import IMG2 from "../../assets/port2.jpg";
 import IMG4 from "../../assets/chatapp.jpg";
 import IMG5 from "../../assets/whatsappclone.png";
-import IMG6 from "../../assets/recipe-app.png";
 
 const data = [
   {
@@ -38,7 +37,7 @@ const data = [
   },
   {
     id: 5,
-    image: IMG6,
+    image: IMG2,
     title: "Recipe-App",
     github: "https://github.com/Aaronlb912/recipe-app",
     demo: "https://abrecipeapp.netlify.app/",
