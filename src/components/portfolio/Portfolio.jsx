@@ -43,13 +43,6 @@ const data = [
     github: "https://github.com/Aaronlb912/recipe-app",
     demo: "https://abrecipeapp.netlify.app/",
   },
-  {
-    id: 6,
-    image: IMG2,
-    title: "Coming Soon",
-    github: "https://github.com/Aaronlb912",
-    demo: "https://www.google.com/",
-  },
 ];
 
 const Portfolio = () => {
